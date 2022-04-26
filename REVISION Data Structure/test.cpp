@@ -48,7 +48,7 @@ void addnode(Node *head,int data){
 
 int main(){
 
-// Node *head=(Node *)malloc(sizeof(Node));
+// Node *head=(Node *)malloc(sizeof(Node)); 
 Node *head=new Node[sizeof(Node)];
 Node *n1=new Node[sizeof(Node)];
 Node *n2=new Node[sizeof(Node)];
