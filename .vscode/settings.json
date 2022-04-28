@@ -9,7 +9,8 @@
         "thread": "cpp",
         "chrono": "cpp",
         "stdio.h": "c",
-        "stdlib.h": "c"
+        "stdlib.h": "c",
+        "ostream": "cpp"
     },
     "liveServer.settings.port": 5501
 }
